@@ -1,1 +1,1 @@
-# desiGlam_Backend
+# E-commerce Full Stack Application building by Rushikesh , Mallikarjuna and Aakash 
