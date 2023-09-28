@@ -1,10 +1,9 @@
 # E-commerce Full Stack Application building by Rushikesh , Mallikarjuna and Aakash 
 
-# My E-commerce Website
+# Our E-commerce Website
 
-Welcome to **My E-commerce Website**! This is a sample README to help you get started with our project.
+Welcome to **Our E-commerce Website**! This is a sample README to help you get started with our project.
 
-![Website Screenshot](screenshot.png)
 
 ## Table of Contents
 1. [About](#about)
