@@ -1,4 +1,4 @@
-const express = require('express')
+const express = require('express');
 const app = express()
 const cors = require('cors')
 
@@ -10,11 +10,11 @@ app.use(cors())
 const user = require("./routes/userRoute")
 
 
-app.use("/",user)
+app.use("/api",user)
 
 
-app.use('*', (req, res) => {
-    res.sendFile(path.join(process.cwd(), '/static/index.html'))
-})
+// app.use('*', (req, res) => {
+//     res.sendFile(path.join(process.cwd(), '/static/index.html'))
+// })
 
 module.exports = app
